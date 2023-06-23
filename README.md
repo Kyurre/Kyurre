@@ -1,5 +1,5 @@
 <h2 align="center"> Hi, I'm Dhairya 👋</h2>                 
-<p align="center">I am a New Grad Software Developer looking to gain experience to land my first job</p>
+<p align="center">I am a New Grad Software Developer looking to gain experience</p>
 
 # 💻 Tech Stack:
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) 
