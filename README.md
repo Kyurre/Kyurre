@@ -1,4 +1,4 @@
-### Hi there I'm Dhairya👋
+###                                           Hi there I'm Dhairya👋
 <p align="center">I am a New Grad Software Developer looking to gain experience to land my first job</p>
 
 # 💻 Tech Stack:
