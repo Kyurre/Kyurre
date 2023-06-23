@@ -1,4 +1,4 @@
-###                                           Hi there I'm Dhairya👋
+<h2 align="center"> Hi, I'm Dhairya 👋</h2>                 
 <p align="center">I am a New Grad Software Developer looking to gain experience to land my first job</p>
 
 # 💻 Tech Stack:
