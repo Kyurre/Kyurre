@@ -12,7 +12,8 @@
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
 
-#Social Links
+#Social Links:
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dhairyapat/)
 <!--
 **Kyurre/Kyurre** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
